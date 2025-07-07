@@ -20,15 +20,12 @@ Files:
 2. `StudentAnalyzerGUI.java` - GUI class using Swing that:
    - Accepts user input
    - Displays student performance
-   - Shows ASCII bar charts (if enabled)
-   - Allows exporting report via email (optional stub method)
 
 Features:
 ---------
  - GUI Input for Student Details  
  - Automatic Grade Calculation  
- - Average Score Display  
- - ASCII-style Graphical Chart  
+ - Average Score Display   
  - Export Report Feature  
  - Simple and Easy to Use  
 
